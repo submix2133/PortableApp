@@ -1,1 +1,0 @@
-start Office\LibreOfficeWriterPortable.exe

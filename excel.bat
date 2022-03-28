@@ -1,1 +1,0 @@
-start Office\LibreOfficeCalcPortable.exe
